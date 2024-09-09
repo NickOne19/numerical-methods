@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\OWNER\source\repos\numerical methods\Main.cpp(14,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\OWNER\source\repos\numerical methods\Main.cpp(23,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Solution.cpp
+  Создание кода...
+  numerical methods.vcxproj -> C:\Users\OWNER\source\repos\numerical methods\x64\Debug\numerical methods.exe
